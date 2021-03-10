@@ -61,7 +61,6 @@
 
 @media only screen and (max-width: 600px) {
     .container {
-        height:40vh;
         margin: 20px auto;
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(4px, auto));
